@@ -348,7 +348,7 @@ export default function App() {
             <div className="text-slate-400 text-[14px] mb-8 font-light">Seleccioná tu método de contacto o pago.</div>
             
             <div className="flex flex-col gap-4">
-              <a href="#" className="flex items-center gap-4 p-5 bg-slate-800/50 border border-slate-700 rounded-xl hover:border-blue-400/50 hover:bg-slate-800 transition-all group">
+              <a href="https://checkout.dlocalgo.com/validate/recurring/DCXhuxTsJQuNmReuVeIWqY97iyf2Lxj9" className="flex items-center gap-4 p-5 bg-slate-800/50 border border-slate-700 rounded-xl hover:border-blue-400/50 hover:bg-slate-800 transition-all group">
                 <span className="text-[24px] grayscale group-hover:grayscale-0 transition-all">💳</span>
                 <div>
                   <div className="text-[14px] font-bold text-white uppercase tracking-wider">Abonar Inscripción</div>
@@ -356,7 +356,7 @@ export default function App() {
                 </div>
               </a>
               
-              <a href="https://wa.me/5491100000000" target="_blank" rel="noreferrer" className="flex items-center gap-4 p-5 bg-slate-800/50 border border-slate-700 rounded-xl hover:border-blue-400/50 hover:bg-slate-800 transition-all group">
+              <a href="https://wa.me/5492645571413" target="_blank" rel="noreferrer" className="flex items-center gap-4 p-5 bg-slate-800/50 border border-slate-700 rounded-xl hover:border-blue-400/50 hover:bg-slate-800 transition-all group">
                 <span className="text-[24px] grayscale group-hover:grayscale-0 transition-all">💬</span>
                 <div>
                   <div className="text-[14px] font-bold text-white uppercase tracking-wider">Consultar Asesor</div>
@@ -370,7 +370,7 @@ export default function App() {
 
       {/* WHATSAPP FLOTANTE DISCRETO */}
       <a 
-        href="https://wa.me/5491100000000" 
+        href="https://wa.me/5492645571413" 
         target="_blank" 
         rel="noreferrer"
         className="fixed bottom-6 right-6 z-[90] flex items-center justify-center w-14 h-14 bg-slate-900 border border-slate-700 text-white rounded-full shadow-[0_0_25px_rgba(0,0,0,0.6)] hover:border-blue-500/50 hover:bg-slate-800 transition-all duration-300 group"
